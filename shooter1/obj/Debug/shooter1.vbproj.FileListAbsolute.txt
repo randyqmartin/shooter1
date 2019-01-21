@@ -1,0 +1,29 @@
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\bin\Debug\shooter1.exe
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\bin\Debug\shooter1.pdb
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\bin\Debug\shooter1.xml
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\shooter1.Form1.resources
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\shooter1.Resources.resources
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\shooter1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\shooter1.exe
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\shooter1.xml
+C:\Documents and Settings\rmartin\My Documents\Visual Studio 2008\Projects\shooter1\shooter1\obj\Debug\shooter1.pdb
+E:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.exe
+E:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.xml
+E:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.pdb
+E:\VBasic_Projects\shooter1\shooter1\bin\Debug\shooter1.exe
+E:\VBasic_Projects\shooter1\shooter1\bin\Debug\shooter1.pdb
+E:\VBasic_Projects\shooter1\shooter1\bin\Debug\shooter1.xml
+E:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.Form1.resources
+E:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.Resources.resources
+E:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.vbproj.GenerateResource.Cache
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.exe
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.xml
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.pdb
+F:\VBasic_Projects\shooter1\shooter1\bin\Debug\shooter1.exe
+F:\VBasic_Projects\shooter1\shooter1\bin\Debug\shooter1.pdb
+F:\VBasic_Projects\shooter1\shooter1\bin\Debug\shooter1.xml
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.vbprojResolveAssemblyReference.cache
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.Form1.resources
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.Resources.resources
+F:\VBasic_Projects\shooter1\shooter1\obj\Debug\shooter1.vbproj.GenerateResource.Cache
