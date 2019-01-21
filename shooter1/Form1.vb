@@ -1,4 +1,5 @@
 ﻿Public Class Form1
+    'this is now a git managed file
 
     Public Const MAX_MISSILES As Integer = 20       'this many missiles at one time
     Public Const MAX_SHIPS As Integer = 10          'this many ships at one time
